@@ -21,7 +21,6 @@ export const ContainerTitle = styled.div`
   text-align: center;
   padding: 10px;
   background-color: ${props => props.theme.marron};
-  margin-top: 2rem;
   
   h2{
     color: ${props => props.theme.white};
@@ -46,7 +45,7 @@ export const ContainerAdress = styled.div`
   text-align: center;
   padding: 10px;
   background-color: ${props => props.theme.marron};
-  margin-top: 1rem;
+  /* margin-top: 1rem; */
   
   p{
     color: ${props => props.theme.white};

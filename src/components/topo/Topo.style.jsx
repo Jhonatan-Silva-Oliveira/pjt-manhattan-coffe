@@ -34,6 +34,6 @@ export const ContainNav = styled.nav`
   
   a{
     padding: 5px;
-    font-size: ${props => props.theme.fontpp}
+    font-size: ${props => props.theme.fontmd}
   }
 `

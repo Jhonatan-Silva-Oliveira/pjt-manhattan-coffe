@@ -17,7 +17,7 @@ export const Section = styled.section`
   h1{
     color: ${props => props.theme.white};
     font-family: ${props => props.theme.fraunces};
-    font-size: ${props => props.theme.fontxxl};
+    font-size: ${props => props.theme.fontxxxl};
     font-weight: 300;
   }
 `

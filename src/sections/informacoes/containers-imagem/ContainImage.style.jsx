@@ -21,6 +21,7 @@ export const Container = styled.div`
 `
 export const Title = styled.h3`
   font-family: ${props => props.theme.fraunces};
+  font-size: ${props => props.theme.fontxm};
   color: ${props => props.theme.white};
   font-weight: 300;
   font-style: italic;

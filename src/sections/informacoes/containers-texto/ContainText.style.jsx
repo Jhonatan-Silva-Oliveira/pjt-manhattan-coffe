@@ -24,6 +24,7 @@ export const Title = styled.h2`
 export const Texto = styled.p`
   color: ${props => props.theme.greyF};
   font-family: ${props => props.theme.lato};
+  font-size: ${props => props.theme.fontmd};
   text-align: center;
   margin-top: 30px;
 `

@@ -11,6 +11,7 @@ export const Section = styled.footer`
   box-sizing: border-box;
   
   background-color: ${props => props.theme.black};
+  font-size: ${props => props.theme.fontmd};
   
   p{
     color: ${props => props.theme.white};
