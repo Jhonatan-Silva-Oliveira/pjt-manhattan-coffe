@@ -6,6 +6,7 @@ import Topo from "./components/topo/Topo";
 import Banner from "./sections/banner/Banner";
 import Info from "./sections/informacoes/Info";
 import Contatos from "./sections/contatos/Contatos";
+import Horarios from "./sections/horarios/Horarios";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Banner />
           <Info />
           <Contatos />
+          <Horarios />
         </main>
       </ThemeProvider>
     </>

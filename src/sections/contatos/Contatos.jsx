@@ -6,7 +6,7 @@ const Contatos = () => {
   return (
     <Section>
       <ContainerTitle>
-        <h3>Contatos & Endereço</h3>
+        <h2>Contatos & Endereço</h2>
       </ContainerTitle>
       <ContainerIframe>
         <Iframe source={ContactInfo.iframe} />

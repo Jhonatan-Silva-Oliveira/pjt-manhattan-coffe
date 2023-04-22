@@ -15,9 +15,11 @@ export const Container = styled.div`
     padding: 0 20px;
   }
 `
-export const Title = styled.h3`
+export const Title = styled.h2`
   color: ${props => props.theme.goldenL};
   font-family: ${props => props.theme.oswald};
+  font-size: ${props => props.theme.fontxl};
+  letter-spacing: 1px;
 `
 export const Texto = styled.p`
   color: ${props => props.theme.greyF};

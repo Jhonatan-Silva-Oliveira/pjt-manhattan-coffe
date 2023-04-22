@@ -23,10 +23,12 @@ export const ContainerTitle = styled.div`
   background-color: ${props => props.theme.marron};
   margin-top: 2rem;
   
-  h3{
+  h2{
     color: ${props => props.theme.white};
     font-family: ${props => props.theme.oswald};
-    letter-spacing: 2px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-size: ${props => props.theme.fontxl};
   }
 `
 export const ContainerIframe = styled.div`

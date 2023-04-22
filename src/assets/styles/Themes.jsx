@@ -19,8 +19,8 @@ export const light = {
   fontxp: '0.75em', //1em = 16px
   fontpp: '0.875em',
   fontmd: '1em',
-  fontxm: '1.25em',
-  fontxl: '2em',
+  fontxm: '1.2em',
+  fontxl: '1.5em',
   fontxxl: '3.5em',
   fontxxxl: '4.3em',
   fontBig: '10em',

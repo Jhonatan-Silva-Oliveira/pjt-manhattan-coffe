@@ -24,4 +24,5 @@ export const Title = styled.h3`
   color: ${props => props.theme.white};
   font-weight: 300;
   font-style: italic;
+  letter-spacing: 1px;
 `
