@@ -11,11 +11,11 @@ const Topo = () => {
         </ContainLogo>
         
         <ContainNav>
-          <a href="#">informações</a>
+          <a href="#info" aria-label="Informações">informações</a>
           
-          <a href="#">contatos</a>
+          <a href="#contato" aria-label="Contatos">contatos</a>
           
-          <a href="#">horários</a>
+          <a href="#horario" aria-label="Horários">horários</a>
         </ContainNav>
       </div>
     </Section>

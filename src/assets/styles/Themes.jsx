@@ -6,7 +6,7 @@ export const light = {
   
   //palet colors
   shadow: '32, 32, 32',
-  black: '#202020', //black shade
+  black: '#000000', //black shade
   white: '#fff',
   marron: '#604829',
   grey: '#ACACAC',

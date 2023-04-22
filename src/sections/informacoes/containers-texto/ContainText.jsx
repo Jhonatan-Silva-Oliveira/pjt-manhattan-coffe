@@ -2,7 +2,7 @@ import { Container, Title, Texto } from "./ContainText.style"
 
 const ContainText = (info) => {
   return (
-    <Container>
+    <Container id="info">
       <div className="contain">
         <Title>{info.titulo}</Title>
         <Texto>{info.texto}</Texto>

@@ -2,7 +2,7 @@ import { Section } from "./Banner.style"
 
 const Banner = () => {
   return (
-    <Section>
+    <Section id="banner">
       <h1>MANHATTAN - COFFEE HOUSE</h1>
     </Section>
   )

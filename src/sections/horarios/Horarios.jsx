@@ -2,7 +2,7 @@ import { Line, Section } from "./Horarios.style"
 
 const Horarios = () => {
   return (
-    <Section>
+    <Section id="horario">
       <h2>Horários de funcionamento</h2>
       <ul>
         <Line>

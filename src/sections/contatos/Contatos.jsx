@@ -4,7 +4,7 @@ import Iframe from "../../components/components-contact/ValidationIframe"
 
 const Contatos = () => {
   return (
-    <Section>
+    <Section id="contato">
       <ContainerTitle>
         <h2>Contatos & Endereço</h2>
       </ContainerTitle>
