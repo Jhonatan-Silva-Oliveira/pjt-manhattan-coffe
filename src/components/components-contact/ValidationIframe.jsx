@@ -10,7 +10,7 @@ const Iframe = ( {source} ) => {
   const src = source
   
   return (
-    <iframe src={src} title='iframe'/>
+    <iframe src={src} title='iframe' />
   )
 };
 Iframe.propTypes = {
