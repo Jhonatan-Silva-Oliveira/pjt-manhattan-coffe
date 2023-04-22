@@ -5,6 +5,7 @@ import { light } from "./assets/styles/Themes";
 import Topo from "./components/topo/Topo";
 import Banner from "./sections/banner/Banner";
 import Info from "./sections/informacoes/Info";
+import Contatos from "./sections/contatos/Contatos";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Topo />
           <Banner />
           <Info />
+          <Contatos />
         </main>
       </ThemeProvider>
     </>
