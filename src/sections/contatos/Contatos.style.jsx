@@ -21,7 +21,7 @@ export const ContainerTitle = styled.div`
   text-align: center;
   padding: 10px;
   background-color: ${props => props.theme.marron};
-  margin-top: 5rem;
+  margin-top: 2rem;
   
   h3{
     color: ${props => props.theme.white};

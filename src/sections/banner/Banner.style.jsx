@@ -12,6 +12,7 @@ export const Section = styled.section`
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 0 2rem;
   
   h1{
     color: ${props => props.theme.white};

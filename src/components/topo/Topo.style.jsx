@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const Section = styled.header`
   position: fixed;
-  width: 100vw;
+  width: 100%;
   background-color: ${props => props.theme.marron};
   display: flex;
   justify-content: center;
